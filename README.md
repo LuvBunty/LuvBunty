@@ -8,4 +8,4 @@
 LuvBunty/LuvBunty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-git commit -m "we;comr to the backrooms"
+git commit -m "welcome to the backrooms"
